@@ -1,6 +1,24 @@
+.icon-alert-danger { background-image: url('png/alert-danger.png'); background-repeat: no-repeat; }
+
+.icon-alert-light { background-image: url('png/alert-light.png'); background-repeat: no-repeat; }
+
+.icon-alert-off-danger { background-image: url('png/alert-off-danger.png'); background-repeat: no-repeat; }
+
+.icon-alert-off-light { background-image: url('png/alert-off-light.png'); background-repeat: no-repeat; }
+
+.icon-alert-off-success { background-image: url('png/alert-off-success.png'); background-repeat: no-repeat; }
+
 .icon-alert-off { background-image: url('png/alert-off.png'); background-repeat: no-repeat; }
 
+.icon-alert-success { background-image: url('png/alert-success.png'); background-repeat: no-repeat; }
+
 .icon-alert { background-image: url('png/alert.png'); background-repeat: no-repeat; }
+
+.icon-back-danger { background-image: url('png/back-danger.png'); background-repeat: no-repeat; }
+
+.icon-back-light { background-image: url('png/back-light.png'); background-repeat: no-repeat; }
+
+.icon-back-success { background-image: url('png/back-success.png'); background-repeat: no-repeat; }
 
 .icon-back { background-image: url('png/back.png'); background-repeat: no-repeat; }
 
@@ -8,7 +26,25 @@
 
 .icon-browsers { background-image: url('png/browsers.png'); background-repeat: no-repeat; }
 
+.icon-call-danger { background-image: url('png/call-danger.png'); background-repeat: no-repeat; }
+
+.icon-call-light { background-image: url('png/call-light.png'); background-repeat: no-repeat; }
+
+.icon-call-success { background-image: url('png/call-success.png'); background-repeat: no-repeat; }
+
 .icon-call { background-image: url('png/call.png'); background-repeat: no-repeat; }
+
+.icon-collapse-danger { background-image: url('png/collapse-danger.png'); background-repeat: no-repeat; }
+
+.icon-collapse-light { background-image: url('png/collapse-light.png'); background-repeat: no-repeat; }
+
+.icon-collapse-success { background-image: url('png/collapse-success.png'); background-repeat: no-repeat; }
+
+.icon-collapse-text-danger { background-image: url('png/collapse-text-danger.png'); background-repeat: no-repeat; }
+
+.icon-collapse-text-light { background-image: url('png/collapse-text-light.png'); background-repeat: no-repeat; }
+
+.icon-collapse-text-success { background-image: url('png/collapse-text-success.png'); background-repeat: no-repeat; }
 
 .icon-collapse-text { background-image: url('png/collapse-text.png'); background-repeat: no-repeat; }
 
@@ -22,7 +58,19 @@
 
 .icon-conveyor { background-image: url('png/conveyor.png'); background-repeat: no-repeat; }
 
+.icon-cubo-circle-danger { background-image: url('png/cubo-circle-danger.png'); background-repeat: no-repeat; }
+
+.icon-cubo-circle-light { background-image: url('png/cubo-circle-light.png'); background-repeat: no-repeat; }
+
+.icon-cubo-circle-success { background-image: url('png/cubo-circle-success.png'); background-repeat: no-repeat; }
+
 .icon-cubo-circle { background-image: url('png/cubo-circle.png'); background-repeat: no-repeat; }
+
+.icon-cubo-danger { background-image: url('png/cubo-danger.png'); background-repeat: no-repeat; }
+
+.icon-cubo-light { background-image: url('png/cubo-light.png'); background-repeat: no-repeat; }
+
+.icon-cubo-success { background-image: url('png/cubo-success.png'); background-repeat: no-repeat; }
 
 .icon-cubo { background-image: url('png/cubo.png'); background-repeat: no-repeat; }
 
